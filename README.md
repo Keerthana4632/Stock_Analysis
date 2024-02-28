@@ -21,7 +21,8 @@ This project main aims on developing my python skills and clen coding practices.
 3. **Monthly Stock Analysis**: Analyze the high and low stock prices of a selected company for a given month and year.
 
 Output:
-![Output_Image](https://github.com/Keerthana4632/Stock_Analysis/assets/148806924/ac571324-82ec-46ab-938d-fcef7daf8219)
+![305390477-a0300cf7-5a5d-4316-b3db-2b899cc22e8a](https://github.com/Keerthana4632/Stock_Analysis/assets/148806924/79b82c27-5d81-48f3-b959-73c26ffc3551)
+
 
 ## Note
 - The application handles basic data validation, such as checking for valid year inputs. Ensure your inputs are within the expected ranges.
